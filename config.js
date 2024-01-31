@@ -3,9 +3,9 @@ const config = {
   users: {
     // username: 'password', you can add multiple users.
     thegoat: 'thegoat',
+    bushcamper: 'eli',
     rogurt: 'rohan',
     betteratbrawl: 'arya',
-    midget: 'ethan',
   },
 }
 export default config
