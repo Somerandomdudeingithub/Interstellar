@@ -2,7 +2,7 @@ const config = {
   challenge: true,
   users: {
     // username: 'password', you can add multiple users.
-    thegoat: 'thegoat',
+    inyourwalls: 'inyourwalls',
     bushcamper: 'eli',
     rogurt: 'rohan',
     betteratbrawl: 'arya',
